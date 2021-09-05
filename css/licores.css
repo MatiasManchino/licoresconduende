@@ -1,0 +1,246 @@
+
+
+#contenido1{
+    border-color: black;
+    margin-top: 40px;
+    border-radius: 2px;
+}
+
+
+
+
+
+/*/*CABECERA DE LA PAGINA
+
+header
+{
+    margin-bottom: 5px;
+    padding-top: 1px;
+
+    text-align: center;
+}
+
+div.logo
+{
+    line-height: 5px;
+
+    display: inline-block;
+
+    width: 500px;
+    margin-top: 15px;
+
+    border-radius: 50%;
+    background-color: rgba(0, 0, 0, .87);
+}
+
+img.logolicor
+{
+    float: center;
+
+    width: 350px;
+    margin-top: 5px;
+}
+
+header nav.redes
+{
+    display: list-item;
+
+    width: 10%;
+
+    border-radius: 100px 100px 100px 100px;
+    background: rgb(157,159,157);
+}
+
+
+header nav.redes ul li
+{
+    float: left;
+
+    margin: auto;
+    margin-right: 15px;
+}
+header nav.redes ul li a
+{
+    margin-left: 0;
+}
+
+
+header nav.redes ul
+{
+    margin-top: -10px;
+    margin-left: -10px;
+
+    list-style: none;
+}
+
+/*CONTENEDOR PRINCIPAL
+
+div.contenedor
+{
+    width: 80%;
+    margin: 0 auto;
+}
+
+div.contenido
+{
+    height: 100%;
+    margin-bottom: 15px;
+}
+
+.clearfix:before,
+.clearfix:after
+{
+    display: table;
+
+    content: '';
+}
+
+.clearfix:after
+{
+    clear: both;
+}
+
+aside
+{
+    width: 27%;
+
+    border-radius: 10px;
+    background: rgb(181, 79, 5);
+
+    /*border: 4px solid black;
+}
+
+
+
+aside nav ul
+{
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: -4px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+    list-style: none;
+}
+
+aside nav ul li
+{
+    padding-bottom: 6px;
+}
+
+aside nav ul li a
+{
+    font-size: 18px; /*Tamaño de la fuente del menú
+
+    display: block;
+
+    width: 100%;
+    margin-left: -20px;
+
+    text-align: center;
+    text-decoration: none;
+
+    color: rgb(80,0,0);
+    text-shadow: 1.2px 1.2px 1.2px #000;
+}
+
+aside nav ul li a:hover
+{
+    background-color: rgb(255, 180, 21);
+}
+
+main
+{
+    float: right;
+
+    width: 70%;
+    height: 100%;
+
+    background: rgba(110, 72, 16, .9); /*color fondo de descripción
+}
+
+main h2
+{
+    font-family: 'Tempus Sans ITC', arial;
+    font-size: 80px;  /*tamaño de letras del titulo licor
+
+    margin: 25px 25px 25px 25px;
+
+    text-align: center;
+    letter-spacing: 6px;
+}
+
+main figure
+{
+    width: 80%;
+    height: 80%;
+    margin: auto;
+}
+
+p
+{
+    font-size: 20px;  /*tamaño de fuente de descripcion
+
+    padding: 0 5%;  /*tamaño de espacios en los costados de la descripcion
+
+    vertical-align: middle;
+
+    color: rgba(40,247,6,1); /*color de la descripcion
+}
+p a
+{
+    font-size: 30px;
+}
+article div
+{
+    font-size: 40px;
+
+    color: rgb(120,255,0);
+}
+
+.contenedor-info
+{
+    float: right; /*distribución del contenedor
+}
+
+footer
+{
+    font-size: 20px;
+
+    width: 90%;
+    margin: 5px auto;
+
+    text-align: center;
+
+    border-radius: 30px;            /*el pie
+    background: rgba(45, 73, 39,.9);
+}
+
+footer a
+{
+    text-decoration: none;
+
+    color: rgb(231, 209, 66);
+}
+
+footer > p
+{
+    font-size: 20px;
+
+    padding-left: 20px;
+
+    color: white;
+}
+
+body
+{
+    background: url(../Imagenes/PRUEBA-IDEAS/fondobosque2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img.trabajando
+{
+    width: 100%;
+    height: 100%;
+}*/
